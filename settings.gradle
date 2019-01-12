@@ -1,0 +1,7 @@
+/*
+ * Created by Muhammad Utsman on 13/1/2019
+ * Copyright (c) 2019 . All rights reserved.
+ * Last modified 1/13/19 1:03 AM
+ */
+
+include ':app', ':bottomhider'
