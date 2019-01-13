@@ -1,7 +1,7 @@
 [ ![Download](https://api.bintray.com/packages/kucingapes/utsman/com.utsman.recyclerview/images/download.svg) ](https://bintray.com/kucingapes/utsman/com.utsman.recyclerview/_latestVersion)
 
 # RecyclerView Bottom Hider
-A library for hide/show bottom view on recycler scroll
+A library for easy make hide/show with bottom view on recycler scrolled
 
 |FAB hide/show|Custom view hide/show|
 |--|--|
