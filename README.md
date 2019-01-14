@@ -15,6 +15,7 @@ Add the dependency
 dependencies {
     ....
     implementation 'com.utsman.recyclerview:bottomhider:1.0.1'
+}
 ```
 
 
